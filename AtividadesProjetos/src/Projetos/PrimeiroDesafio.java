@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class PrimeiroDesafio {
 public static void main(String[] args) {
+   //1. Escreva um programa para ler 2 notas, o sistema vai apresentar a média final, 
+se nota maior que 7 incluir mensagem "aprovado" senão "reprovado".
     Scanner ler = new Scanner(System.in);
     System.out.println("Escreva o valor da primeira nota:");
 int n1 = ler.nextInt();

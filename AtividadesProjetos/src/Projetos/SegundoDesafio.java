@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class SegundoDesafio {
     public static void main(String[] args) {
+        //2. Escreva um programa para ler um número e o sistema vai mostra os números vizinhos, o anterior e o próximo número.
         Scanner ler = new Scanner(System.in);
         System.out.println("Escreva um número:");
         int n = ler.nextInt();
